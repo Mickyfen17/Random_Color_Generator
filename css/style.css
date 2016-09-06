@@ -8,23 +8,23 @@ body {
 	font-family: Roboto, sans-serif;
 	transition: background-color 1s ease-in-out;
 }
-
+/*Content centering*/
 .content {
 	text-align: center;
 }
-
+/*Styling for main header*/
 #title {
 	font-size: 5em;
 	letter-spacing: 0.05em;
 	font-family: Bangers, cursive;
 	text-shadow: -2px 2px 4px black;
-	transition: text-shadow 1s ease-in-out;
+/*	transition: text-shadow 1s ease-in-out;*/
 }
-
+/*Font sizing for text that displays RGB values*/
 #display-color {
 	font-size: 3em;
 }
-
+/*Styling for button*/
 #Random-color-button {
 	margin: 30px 0 10px 0;
 	background: #f6f5f2;
